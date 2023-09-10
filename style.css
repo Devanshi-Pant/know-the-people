@@ -1,0 +1,30 @@
+.flexcontainer{ background-color: rgb(162, 97, 115); 
+    border: 10px solid teal; 
+    margin:12px;
+    margin-bottom: 50px;
+    height: 430px;
+    width: 350px;
+    font-family: 'Times New Roman', Times, serif; 
+    font-size: 20px;
+    text-align: center;
+       
+}
+
+.container {display:flex;
+ 
+justify-content:space-around;
+flex-wrap: wrap;
+
+}
+
+body{ background-image: url(https://static.vecteezy.com/system/resources/previews/000/345/304/original/abstract-floral-seamless-pattern-with-trendy-hand-drawn-textures-vector.jpg);
+background-size: contain;}
+
+
+
+h1{background-color: teal;
+font-size: 100pt;
+text-align: center;
+font-family:cursive;
+text-decoration: dotted;
+}
